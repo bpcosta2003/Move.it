@@ -1,4 +1,4 @@
-# React_MOVE.IT-NEXT
+# MOVE.IT
 
 # YOU CAN RUN THIS PROJECT IN YOUR PC USING 'npm run dev'
 
