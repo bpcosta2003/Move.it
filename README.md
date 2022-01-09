@@ -1,6 +1,6 @@
 # MOVE.IT
 
-<h2>YOU CAN RUN THIS PROJECT IN YOUR PC USING 'npm run dev'</h2>
+<h2>YOU CAN RUN THIS PROJECT IN YOUR PC USING <p>'npm run dev'</p></h2>
 
 # Getting Started with Create React App
 
