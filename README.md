@@ -1,6 +1,7 @@
 # MOVE.IT
 
-# YOU CAN RUN THIS PROJECT IN YOUR PC USING 'npm run dev'
+# YOU CAN RUN THIS PROJECT IN YOUR PC USING 
+# 'npm run dev'
 
 # Getting Started with Create React App
 
