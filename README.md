@@ -1,5 +1,7 @@
 # MOVE.IT
 
+<h3>This project will help you to keep focused during an activity, based on the Pomodoro Technique</h3>
+
 <h2>YOU CAN RUN THIS PROJECT IN YOUR PC USING : <p>"npm run dev"</p></h2>
 
 # Getting Started with Create React App
