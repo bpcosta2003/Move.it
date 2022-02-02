@@ -37,7 +37,7 @@ This project will help you to keep focused during an activity, based on the Pomo
 - Countdowns with notifications POPUP and sound ✔️
 - Challenges to do when the countdown is over ✔️
 - When you complete a challenge you receive XP and you Level up ✔️
-- Cookies used to save the data ✔️
+- Cookies used to save the data ( your level, XP and how many challenges have you complete ) ✔️
 
 ###
 
