@@ -1,8 +1,45 @@
-# MOVE.IT
+# Projeto MOVE.IT
 
-<h3>This project will help you to keep focused during an activity, based on the Pomodoro Technique.</h3>
+## About 👨🏽‍🏫
 
-<h2>YOU CAN RUN THIS PROJECT IN YOUR PC USING : <p>"npm run dev"</p></h2>
+This project will help you to keep focused during an activity, based on the Pomodoro Technique
+
+## Project 🖱️
+
+[See the project](https://moveit-bybrunocosta.vercel.app/)
+
+![image](https://user-images.githubusercontent.com/69023428/152190160-851f52db-c78b-44c3-814e-f7e068b491dc.png)
+![image](https://user-images.githubusercontent.com/69023428/152197187-a0b8a549-2e65-446e-b5c5-a6213332030f.png)
+
+
+
+## Technologies 💻
+<div style="display: inline_block"><br>
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
+</div>
+</br>
+
+## Deploy 🔧
+
+- Vercel 
+
+## Configs ⚙️
+
+- Clone the project ```git clone```
+- Go to Terminal and type ```npm i``` to download all the dependencies
+- Run this project using ```yarn dev```
+
+## Functionalities 🖱️
+- Countdowns with notifications POPUP and sound ✔️
+- Challenges to do when the countdown is over ✔️
+- When you complete a challenge you receive XP and you Level up ✔️
+- Cookies used to save the data ✔️
+
+###
 
 # Getting Started with Create React App
 
