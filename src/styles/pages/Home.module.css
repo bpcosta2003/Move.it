@@ -11,6 +11,17 @@
   flex: 1;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 6.25rem;
+  gap: 4.25rem;
   align-content: center;
+}
+
+@media (max-width: 768px) {
+  .container section {
+    flex: 1;
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
 }

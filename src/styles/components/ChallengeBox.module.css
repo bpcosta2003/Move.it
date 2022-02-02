@@ -101,3 +101,12 @@
 .challengeActive footer button:hover {
   filter: brightness(0.9);
 }
+
+@media (max-width: 768px) {
+  .challengeActive main p {
+    margin-bottom: 2rem;
+  }
+  .challengeActive main img {
+    margin-top: 2rem;
+  }
+}

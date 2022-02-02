@@ -70,3 +70,19 @@
   color: var(--text);
   cursor: not-allowed;
 }
+
+@media (max-width: 334px) {
+  .countdownContainer > div span:first-child {
+    border-right: 1px solid #f0f1f3;
+    font-size: 5.25rem;
+  }
+
+  .countdownContainer > div span:last-child {
+    border-left: 1px solid #f0f1f3;
+    font-size: 5.25rem;
+  }
+
+  .countdownContainer > span {
+    font-size: 4.25rem;
+  }
+}

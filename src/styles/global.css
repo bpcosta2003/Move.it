@@ -12,6 +12,7 @@
   --text-highlight: #b3b9ff;
   --title: #2e384d;
   --red: #e83f5b;
+  --red-dark: #a12e41;
   --green: #4cd62b;
   --blue: #5965e0;
   --blue-dark: #4953b8;
@@ -24,6 +25,11 @@
   }
 }
 @media (max-width: 720px) {
+  html {
+    font-size: 87.5%;
+  }
+}
+@media (max-width: 768px) {
   html {
     font-size: 87.5%;
   }

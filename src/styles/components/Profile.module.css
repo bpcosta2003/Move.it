@@ -1,15 +1,27 @@
 .profileContainer {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+}
+.profileContainerLeft {
+  display: flex;
+  align-items: center;
 }
 
-.profileContainer > img {
+.profileContainerLeft > img {
   width: 5.5rem;
   height: 5.5rem;
   border-radius: 50%;
 }
+.profileContainer button img {
+  width: 2.5rem;
+  height: 2.5rem;
+}
 
 .profileContainer div {
+  margin-left: 0rem;
+}
+.profileContainer div div {
   margin-left: 1.5rem;
 }
 
@@ -25,4 +37,25 @@
 
 .profileContainer div p img {
   margin-right: 0.5rem;
+}
+
+.profileContainer button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 2rem;
+  width: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0px;
+  border-radius: 5px;
+  background: transparent;
+  color: var(--white);
+  font-size: 1.25rem;
+  font-weight: 600;
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+
+.profileContainer button:hover {
+  background: transparent;
 }

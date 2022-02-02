@@ -7,14 +7,19 @@ export function Profile() {
 
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/bpcosta2003.png" alt="Bruno Costa" />
-      <div>
-        <strong>Bruno Costa</strong>
-        <p>
-          <img src="icons/level.svg" alt="Level" />
-          Level {level}
-        </p>
+      <div className={styles.profileContainerLeft}>
+        <img src="https://github.com/bpcosta2003.png" alt="Bruno Costa" />
+        <div className={styles.profileContent}>
+          <strong>Bruno Costa</strong>
+          <p>
+            <img src="icons/level.svg" alt="Level" />
+            Level {level}
+          </p>
+        </div>
       </div>
+      {/* <button>
+        <img src="icons/logout.png" alt="Logout" />
+      </button> */}
     </div>
   );
 }
